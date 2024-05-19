@@ -7,3 +7,4 @@ export default function UserPanel({username, onLogout}) {
         <MeetingsPage username={username}/>
     </div>;
 }
+
